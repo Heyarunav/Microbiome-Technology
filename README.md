@@ -1,10 +1,9 @@
-# Microbiome-Technology
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Microbiome Biotechnology: Revolutionizing Health, Agriculture, and the Environment</title>
+    <title>Biodegradable Plastics and Sustainable Biomanufacturing</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -51,19 +50,19 @@
 </head>
 <body>
 
-    <h1>Microbiome Biotechnology: Revolutionizing Health, Agriculture, and the Environment</h1>
-    <div class="author">Written by Gariyoshi Saikia Thengal, 4th Sem</div>
+    <h1>Biodegradable Plastics and Sustainable Biomanufacturing</h1>
+    <div class="author">Written by Dipshikha Barman</div>
 
     <div class="content">
         <h2>Related Article</h2>
         <p>
-            <a href="https://www.nature.com/articles/s41579-020-0363-8" target="_blank">
-                Microbiome Biotechnology: Applications and Advancements
+            <a href="https://www.nature.com/articles/s41893-021-00760-4" target="_blank">
+                Biodegradable Plastics and Sustainable Manufacturing Practices
             </a>
         </p>
         <div class="qr-container">
             <p>Scan the QR code to read the full article:</p>
-            <img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://www.nature.com/articles/s41579-020-0363-8" alt="QR Code">
+            <img src="https://chart.googleapis.com/chart?chs=150x150&cht=qr&chl=https://www.nature.com/articles/s41893-021-00760-4" alt="QR Code">
         </div>
     </div>
 
@@ -74,3 +73,6 @@
 
 </body>
 </html>
+      
+
+
